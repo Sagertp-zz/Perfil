@@ -1,3 +1,21 @@
+commit f5b733af0d1ca721c72fa32a60922e566e4cd9f3
+Author: Saget <sagertp@gmail.com>
+Date:   Sun May 14 22:16:49 2017 -0400
+
+    Solo se mejoro el aspecto de los parrafos nada importante
+
+commit 30e2ef010a5e568b919953629aaebe912e7c1066
+Author: Saget <sagertp@gmail.com>
+Date:   Sun May 14 22:14:10 2017 -0400
+
+    Modificamos los parrafos de la descripcion del perfil
+
+commit f25b37b8686eb7474e4d78d4d2dfb89e96b769eb
+Author: Saget <sagertp@gmail.com>
+Date:   Sun May 14 21:42:55 2017 -0400
+
+    Modificamos el atributo href para el boton de facebook
+
 commit 221b5e839cec422aaa111e0e7ad343a50caa8445
 Author: Saget <sagertp@gmail.com>
 Date:   Sun May 14 21:19:42 2017 -0400
